@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Node.js
 - 🌱 I’m currently learning ...MERN Stack
 - 💞️ I’m looking to collaborate on ...MERN Stack
-- 📫 How to reach me ...[Linkedin Profile](https://www.linkedin.com/in/harshal-ghutkule-28186a222) [Twitter](@Harshal55214888)
+- 📫 How to reach me ...[Linkedin Profile](https://www.linkedin.com/in/harshal-ghutkule-28186a222) [Twitter](https://twitter.com/Harshal55214888?t=mRriuNfpl4yOcDA_tAWn3g&s=08)
 
 <!---
 HarshalGhutkule/HarshalGhutkule is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
