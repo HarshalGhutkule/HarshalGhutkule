@@ -2,9 +2,9 @@
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Harshal Ghutkule</h1>
 <h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h3>
-<br/><br/>
+<br/>
 <img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
-<br/><br/>
+<br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="harshalghutkule" /> </p>
 
 - 🌱 I’m currently learning **React, MERN stack**
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/12DKyruvd12DkhHV3Boh5ZZw-bDjIxUYB/view?usp=sharing)
 
-<br/><br/><br/><br/>
+<br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/harshal55214888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshal55214888" height="50" width="80" /></a>
