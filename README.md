@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React, MERN stack**
 
-- 👨‍💻 All of my projects are available at https://harshal-portfolio.netlify.app/
+- 👨‍💻 All of my projects are available at [Portfolio](https://harshal-portfolio.netlify.app/)
 
 - 💬 Ask me about **JavaScript**
 
