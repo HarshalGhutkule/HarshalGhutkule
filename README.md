@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **harshalghutkule@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/12DKyruvd12DkhHV3Boh5ZZw-bDjIxUYB/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1FGrrxwFvVGB9IldtT0YvPUJ4agYdwOub/view?usp=sharing)
 
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
