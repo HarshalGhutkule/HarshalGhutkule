@@ -7,7 +7,7 @@
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
-- 🌱 I’m currently learning **React, MERN stack**
+- 🌱 I’m currently working as a **Software Engineer** at [Expertia.ai](https://expertia.ai)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshal-portfolio.netlify.app/)
 
