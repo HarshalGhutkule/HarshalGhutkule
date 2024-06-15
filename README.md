@@ -1,13 +1,15 @@
 
 <img src="http://propulsive.in/assets/img/service-icon/dev.gif" alt="web-development" />
 <h1 align="center">Hi 👋, I'm Harshal Ghutkule</h1>
-<h3 align="center">Fast self-learner and result-oriented aspiring full stack web developer with a specialization in MERN stack and DSA. A calm and focused problem solver</h3>
+<h3 align="center">Full Stack Web Developer with 2 years of experience in an AI-based HR tech startup. Proficient in
+Next.js, React, Node.js, Express.js, MongoDB, and JavaScript. Quick learner with problem-solving
+abilities, adaptable to dynamic environments.</h3>
 <br/>
 <img align="right" width="450" src="https://seotactica.com/wp-content/uploads/2020/03/expert-developers.gif" alt="it's me" />
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
-- 🌱 I’m currently working as a **Software Engineer** at [Expertia.ai](https://expertia.ai)
+- 🌱 I’m currently working as a **Associate Full Stack Engineer** at [Expertia.ai](https://expertia.ai)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshal-portfolio.netlify.app/)
 
@@ -15,7 +17,7 @@
 
 - 📫 How to reach me **harshalghutkule@gmail.com**
 
-- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1FGrrxwFvVGB9IldtT0YvPUJ4agYdwOub/view?usp=sharing)
+- 📄 Know about my experiences [Click Here](https://drive.google.com/file/d/1LVzHNgtMMlzG7lg5uhygdGcVA4JF9_Dz/view?usp=sharing)
 
 <br/><br/>
 <h3 align="left">Connect with me:</h3>
