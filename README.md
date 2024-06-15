@@ -23,7 +23,7 @@ abilities, adaptable to dynamic environments.</h3>
 <h3 align="left">Connect with me:</h3>
 <br/>
 <p align="left">
-<a href="https://twitter.com/harshal55214888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshal55214888" height="50" width="80" /></a>
+<a href="https://twitter.com/HarshalGhutkule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshal55214888" height="50" width="80" /></a>
 <a href="https://www.linkedin.com/in/harshal-g-28186a222" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-ghutkule-28186a222" height="50" width="80" /></a>
 <a href="https://medium.com/@harshalghutkule" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@harshalghutkule" height="50" width="80" /></a>
 <a href="https://www.leetcode.com/harshal2993" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshal2993" height="50" width="80" /></a>
