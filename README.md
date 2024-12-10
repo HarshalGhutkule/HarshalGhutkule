@@ -9,7 +9,7 @@ abilities, adaptable to dynamic environments.</h3>
 <br/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshalghutkule&label=Profile%20views&color=0e75b6&style=flat" alt="profile-view" /> </p>
 
-- 🌱 I’m currently working as a **Associate Full Stack Engineer** at [Expertia.ai](https://expertia.ai)
+- 🌱 I’m currently working as a **Backend Developer** at [Intangles Lab Pvt. Ltd.](https://www.intangles.ai/)
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://harshal-portfolio.netlify.app/)
 
